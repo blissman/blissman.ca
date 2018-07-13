@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:blissman/blissman.github.io.git
+	branch = master
