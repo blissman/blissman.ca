@@ -14,6 +14,7 @@
         </h2>
       </div>
     </div>
+    {{ template "_internal/google_analytics_async.html" . }}
   </header>
 {{ else }}
   <header>
@@ -30,5 +31,6 @@
         {{ end }}
       </div>
     </div>
+    {{ template "_internal/google_analytics_async.html" . }}
   </header>
 {{ end }}
