@@ -1,5 +1,5 @@
 title = "The Cat Life"
-baseURL = "http://blissman.ca"
+baseURL = "https://blissman.ca"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
