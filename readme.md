@@ -1,3 +1,3 @@
-# blissman.github.io
+# blissman.ca
 
-This is my deployed site! It's mostly a blog about cats.
+This is the code for blissman.ca, built using hugo.
