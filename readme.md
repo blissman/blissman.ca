@@ -11,3 +11,8 @@ $ hugo new content/posts/<your new post>.md
 ## Edit a Post
 
 Edit your post in `./content/posts/` using markdown format.
+
+## Build the Public Folder
+
+`$ hugo` . . . your built files will be in `./public/`
+
