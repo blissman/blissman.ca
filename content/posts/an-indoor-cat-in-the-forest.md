@@ -1,7 +1,7 @@
 ---
 title: "An Indoor Cat in the Forest"
 date: 2018-07-18T14:05:29-04:00
-draft: true
+draft: false
 ---
 
 I've always self-identified my spirit animal as the noble raccoon. Something about its bandit face and clever hands finding discarded food (or trash) always spoke to me (#4age4lyfe). Those who know me best however tell me that I am in reality much closer to a bougie indoor cat; preferring my beds soft and my plumbing indoors.
