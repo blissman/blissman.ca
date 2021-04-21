@@ -1,7 +1,7 @@
 ---
 title: "The New Neighbours"
 date: 2021-04-19T20:17:07-04:00
-draft: true
+draft: false
 ---
 
 With the pandemic in full swing, and the Canadian housing market hotter than ever, there's been a flurry of action in my neighbourhood as houses get bought and sold at a dizzying rate. A common concern with families coming in is whether it's going to disrupt your way of living. Will they be noisy? Will they be rude? Will they have tacky sense of design? Sometimes though, you get lucky.
