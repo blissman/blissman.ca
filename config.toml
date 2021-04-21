@@ -8,7 +8,6 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 5
-googleAnalytics = "G-ZBGRMJH6TT"
 enableRobotsTXT = true
 
 [sitemap]
@@ -27,3 +26,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/totoro.jpg"
   recent_posts_number = 2
+  googleAnalyticsID = "G-ZBGRMJH6TT"
