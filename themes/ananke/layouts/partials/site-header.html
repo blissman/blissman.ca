@@ -14,7 +14,7 @@
         </h2>
       </div>
     </div>
-    {{ template "_internal/google_analytics_async.html" . }}
+    {{ template "layouts/partials/google-analytics-4.html" . }}
   </header>
 {{ else }}
   <header>
@@ -31,6 +31,6 @@
         {{ end }}
       </div>
     </div>
-    {{ template "_internal/google_analytics_async.html" . }}
+    {{ template "layouts/partials/google-analytics-4.html" . }}
   </header>
 {{ end }}
