@@ -17,4 +17,4 @@ As the sun came out this afternoon though, the snow started to melt and our litt
 ![Playful Foxes 5](/images/posts/second-winter/second-winter-5.jpg)
 ![Playful Foxes 6](/images/posts/second-winter/second-winter-6.jpg)
 
-That's the kind of joy we've been missing this pandemic. Keeping living your best lives, little buddies!
+That's the kind of joy we've been missing this pandemic. Keep living your best lives, little buddies!
