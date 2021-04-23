@@ -6,4 +6,4 @@ draft: false
 
 I met the shyest little cutie today. I barely managed to snap a few shots before she ran by me!
 
-![Minou](/images/posts/Minou.jpg)
+![Minou](/images/posts/the-amazing-world-of-nature/Minou.jpg)

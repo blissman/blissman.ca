@@ -8,14 +8,14 @@ With the pandemic in full swing, and the Canadian housing market hotter than eve
 
 I had some new neighbours move in just this past weekend, and while they've chosen my shed, I can honestly say I couldn't be happier.
 
-![Baby Foxes 1](/images/posts/foxes/baby-foxes-1.jpg)
-![Baby Foxes 2](/images/posts/foxes/baby-foxes-2.jpg)
-![Baby Foxes 3](/images/posts/foxes/baby-foxes-3.jpg)
-![Baby Foxes 4](/images/posts/foxes/baby-foxes-4.jpg)
-![Baby Foxes 5](/images/posts/foxes/baby-foxes-5.jpg)
-![Baby Foxes 6](/images/posts/foxes/baby-foxes-6.jpg)
-![Baby Foxes 7](/images/posts/foxes/baby-foxes-7.jpg)
-![Baby Foxes 8](/images/posts/foxes/baby-foxes-8.jpg)
+![Baby Foxes 1](/images/posts/the-new-neighbours/baby-foxes-1.jpg)
+![Baby Foxes 2](/images/posts/the-new-neighbours/baby-foxes-2.jpg)
+![Baby Foxes 3](/images/posts/the-new-neighbours/baby-foxes-3.jpg)
+![Baby Foxes 4](/images/posts/the-new-neighbours/baby-foxes-4.jpg)
+![Baby Foxes 5](/images/posts/the-new-neighbours/baby-foxes-5.jpg)
+![Baby Foxes 6](/images/posts/the-new-neighbours/baby-foxes-6.jpg)
+![Baby Foxes 7](/images/posts/the-new-neighbours/baby-foxes-7.jpg)
+![Baby Foxes 8](/images/posts/the-new-neighbours/baby-foxes-8.jpg)
 
 That's right, I've got baby foxes living in my yard. Are they adorable? Yes. Do I feel lucky? Yes. Does my shed smell like fox pee now? Also yes.
 
