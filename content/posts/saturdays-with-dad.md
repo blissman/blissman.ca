@@ -1,7 +1,7 @@
 ---
 title: "Saturdays With Dad"
 date: 2021-04-26T18:33:16-04:00
-draft: true
+draft: false
 ---
 
 When I was young(er), my dad worked seven days a week to try and provide the kids with the advantages he didn't have growing up. It meant that he was often tired, and a little bit grouchy, but he still made an effort to spend time with us on the weekends when he could. A Saturday afternoon doing something fun with dad didn't happen that often, but it was always a good time.
